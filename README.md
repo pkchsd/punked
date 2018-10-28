@@ -1,11 +1,17 @@
 ﻿# punked has been born
 
 
- ## line 1
+ ## Step 1
+ 
+ _They try to make you crazy_
 
- ## line 2
+ ## Step 2
 
-### line 3
+_deny it_
+
+## Step 3
+
+_learn_
 
 Line 4
 
